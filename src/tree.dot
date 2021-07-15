@@ -263,6 +263,15 @@ digraph G {
 			"Goonstation"                  [shape = rectangle,   color = darkgreen] // added by: CthulhuOnIce
 			"Original «SS13» \n(Pre-open)" [shape = invtriangle, color = darkgreen] // added by: CthulhuOnIce
 			"Revision 4407 (r4407)"        [shape = rectangle,   color = darkgreen] // added by: CthulhuOnIce
+
+			/// Nodes with notes ///
+			OpenSS13 [
+				fontcolor = "blue"
+				decorate  = true
+				label     = <<b><u>OpenSS13 (2008/03)</u></b>>,
+				URL       = "./../notes/OpenSS13_2008-13.html",
+			]
+
 			/// Nodes color override ///
 			"CEV Eris"                     [color = "#00008B"] // added by: Gesugao-san
 			"Paradise"                     [color = "#00008B"] // added by: CthulhuOnIce
@@ -355,10 +364,10 @@ digraph G {
 			"Lebensraum"                                  -> "Civilization 13" // added by: CthulhuOnIce
 			"No Mans's Land"                              -> "Lebensraum" // added by: CthulhuOnIce
 			"NTStation"                                   -> "D20 Station" // added by: CthulhuOnIce
-			"OpenSS13 (2008/03)"                          -> "BayStation12 (OpenSS13, pre Goon)" // added by: CthulhuOnIce, edited: Gesugao-san
-			"OpenSS13 (2008/03)"                          -> "Donut Station" // added by: Gesugao-san
-			"Original «SS13» \n(Pre-open)"                -> "OpenSS13 (2008/03)" [label = "[Decompilation by Hobnob]"] // added by: CthulhuOnIce, edited: Gesugao-san
-			"Original «SS13» \n(Pre-open)"                -> "OpenSS13 (2008/03)" [label = "[Source given to AZA by Exdav1]"] // added by: Gesugao-san
+			OpenSS13                                      -> "BayStation12 (OpenSS13, pre Goon)" // added by: CthulhuOnIce, edited: Gesugao-san
+			OpenSS13                                      -> "Donut Station" // added by: Gesugao-san
+			"Original «SS13» \n(Pre-open)"                -> OpenSS13 [label = "[Decompilation by Hobnob]"] // added by: CthulhuOnIce, edited: Gesugao-san
+			"Original «SS13» \n(Pre-open)"                -> OpenSS13 [label = "[Source given to AZA by Exdav1]"] // added by: Gesugao-san
 			"Paradise"                                    -> "Persistence SS13 (Old)" // added by: CthulhuOnIce
 			"Persistence SS13 (Old)"                      -> "Persistence" [color = red] // added by: Gesugao-san
 			"Polaris"                                     -> "V.O.R.E. Station" // added by: CthulhuOnIce

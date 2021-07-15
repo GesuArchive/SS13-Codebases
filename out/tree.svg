@@ -14,36 +14,36 @@
 <polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="8,-8 8,-1285.48 5542,-1285.48 5542,-8 8,-8"/>
 <text text-anchor="middle" x="2775" y="-1270.28" font-family="Arial" font-size="14.00">SS13 Codebases Circa Mid 2021</text>
 </g>
-<g id="clust3" class="cluster">
-<title>cluster not BYOND</title>
-<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="5034,-1149.48 5034,-1224.48 5534,-1224.48 5534,-1149.48 5034,-1149.48"/>
-<text text-anchor="middle" x="5284" y="-1209.28" font-family="Arial" font-size="14.00">These builds does not running on BYOND DM engine</text>
-</g>
 <g id="clust2" class="cluster">
 <title>cluster Note</title>
-<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="4238,-1137.98 4238,-1235.98 5026,-1235.98 5026,-1137.98 4238,-1137.98"/>
-<text text-anchor="middle" x="4632" y="-1220.78" font-family="Arial" font-size="14.00">Notes about tree</text>
+<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="4746,-1137.98 4746,-1235.98 5534,-1235.98 5534,-1137.98 4746,-1137.98"/>
+<text text-anchor="middle" x="5140" y="-1220.78" font-family="Arial" font-size="14.00">Notes about tree</text>
 </g>
 <g id="clust4" class="cluster">
 <title>cluster BYOND dedicated hub</title>
-<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="3413,-1149.48 3413,-1254.48 4230,-1254.48 4230,-1149.48 3413,-1149.48"/>
-<text text-anchor="middle" x="3821.5" y="-1239.28" font-family="Arial" font-size="14.00">These builds is running on BYOND DM engine,</text>
-<text text-anchor="middle" x="3821.5" y="-1224.28" font-family="Arial" font-size="14.00">				but does not starts from decompiled SS13 (Pre&#45;open) build,</text>
-<text text-anchor="middle" x="3821.5" y="-1209.28" font-family="Arial" font-size="14.00">				but was inspired by SS13 and continues his ideas</text>
+<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="3921,-1149.48 3921,-1254.48 4738,-1254.48 4738,-1149.48 3921,-1149.48"/>
+<text text-anchor="middle" x="4329.5" y="-1239.28" font-family="Arial" font-size="14.00">These builds is running on BYOND DM engine,</text>
+<text text-anchor="middle" x="4329.5" y="-1224.28" font-family="Arial" font-size="14.00">				but does not starts from decompiled SS13 (Pre&#45;open) build,</text>
+<text text-anchor="middle" x="4329.5" y="-1209.28" font-family="Arial" font-size="14.00">				but was inspired by SS13 and continues his ideas</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster not BYOND</title>
+<polygon fill="lightgray" stroke="black" stroke-dasharray="1,5" points="3413,-1149.48 3413,-1224.48 3913,-1224.48 3913,-1149.48 3413,-1149.48"/>
+<text text-anchor="middle" x="3663" y="-1209.28" font-family="Arial" font-size="14.00">These builds does not running on BYOND DM engine</text>
 </g>
 <!-- note1 -->
 <g id="node1" class="node">
 <title>note1</title>
-<polygon fill="none" stroke="black" points="5018,-1204.48 4494,-1204.48 4494,-1146.48 5018,-1146.48 5018,-1204.48"/>
-<text text-anchor="start" x="4502" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.</text>
+<polygon fill="none" stroke="black" points="5526,-1204.48 5002,-1204.48 5002,-1146.48 5526,-1146.48 5526,-1204.48"/>
+<text text-anchor="start" x="5010" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Red arrows indicate that the child is not a fork of a parent, rather a new version or rebrand.</text>
 </g>
 <!-- note2 -->
 <g id="node2" class="node">
 <title>note2</title>
 <g id="a_node2"><a xlink:href="https://github.com/CthulhuOnIce/SS13-Codebases" xlink:title="&lt;b&gt;&lt;u&gt;GitHub source &lt;br/&gt;repository&lt;/u&gt;&lt;/b&gt;">
-<polygon fill="none" stroke="black" points="4366,-1146.48 4366,-1204.48 4476,-1204.48 4476,-1146.48 4366,-1146.48"/>
-<text text-anchor="start" x="4374" y="-1179.28" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">GitHub source </text>
-<text text-anchor="start" x="4389.5" y="-1165.28" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">repository</text>
+<polygon fill="none" stroke="black" points="4874,-1146.48 4874,-1204.48 4984,-1204.48 4984,-1146.48 4874,-1146.48"/>
+<text text-anchor="start" x="4882" y="-1179.28" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">GitHub source </text>
+<text text-anchor="start" x="4897.5" y="-1165.28" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">repository</text>
 </a>
 </g>
 </g>
@@ -51,94 +51,94 @@
 <g id="node3" class="node">
 <title>note3</title>
 <g id="a_node3"><a xlink:href="https://github.com/SS13-Source-Archive" xlink:title="&lt;b&gt;&lt;u&gt;More builds&lt;/u&gt;&lt;/b&gt;">
-<polygon fill="none" stroke="black" points="4246.5,-1146.48 4246.5,-1204.48 4347.5,-1204.48 4347.5,-1146.48 4246.5,-1146.48"/>
-<text text-anchor="start" x="4260" y="-1172.78" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">More builds</text>
+<polygon fill="none" stroke="black" points="4754.5,-1146.48 4754.5,-1204.48 4855.5,-1204.48 4855.5,-1146.48 4754.5,-1146.48"/>
+<text text-anchor="start" x="4768" y="-1172.78" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">More builds</text>
 </a>
 </g>
 </g>
 <!-- Space Station 14 -->
 <g id="node4" class="node">
 <title>Space Station 14</title>
-<ellipse fill="none" stroke="#00008b" cx="5454" cy="-1175.48" rx="72.29" ry="18"/>
-<text text-anchor="middle" x="5454" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Space Station 14</text>
+<ellipse fill="none" stroke="#00008b" cx="3833" cy="-1175.48" rx="72.29" ry="18"/>
+<text text-anchor="middle" x="3833" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Space Station 14</text>
 </g>
 <!-- UnityStation -->
 <g id="node5" class="node">
 <title>UnityStation</title>
-<ellipse fill="none" stroke="#00008b" cx="5308" cy="-1175.48" rx="55.79" ry="18"/>
-<text text-anchor="middle" x="5308" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">UnityStation</text>
+<ellipse fill="none" stroke="#00008b" cx="3687" cy="-1175.48" rx="55.79" ry="18"/>
+<text text-anchor="middle" x="3687" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">UnityStation</text>
 </g>
 <!-- SS3D -->
 <g id="node6" class="node">
 <title>SS3D</title>
-<ellipse fill="none" stroke="#00008b" cx="5202" cy="-1175.48" rx="32.49" ry="18"/>
-<text text-anchor="middle" x="5202" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">SS3D</text>
+<ellipse fill="none" stroke="#00008b" cx="3581" cy="-1175.48" rx="32.49" ry="18"/>
+<text text-anchor="middle" x="3581" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">SS3D</text>
 </g>
 <!-- RE:SS3D -->
 <g id="node7" class="node">
 <title>RE:SS3D</title>
-<ellipse fill="none" stroke="#00008b" cx="5088" cy="-1175.48" rx="46.29" ry="18"/>
-<text text-anchor="middle" x="5088" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">RE:SS3D</text>
+<ellipse fill="none" stroke="#00008b" cx="3467" cy="-1175.48" rx="46.29" ry="18"/>
+<text text-anchor="middle" x="3467" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">RE:SS3D</text>
 </g>
 <!-- SS3D&#45;&gt;RE:SS3D -->
 <g id="edge1" class="edge">
 <title>SS3D&#45;&gt;RE:SS3D</title>
-<path fill="none" stroke="black" d="M5169.48,-1175.48C5161.14,-1175.48 5152.81,-1175.48 5144.48,-1175.48"/>
-<polygon fill="black" stroke="black" points="5134.31,-1175.48 5144.31,-1170.98 5139.31,-1175.48 5144.31,-1175.48 5144.31,-1175.48 5144.31,-1175.48 5139.31,-1175.48 5144.31,-1179.98 5134.31,-1175.48 5134.31,-1175.48"/>
+<path fill="none" stroke="black" d="M3548.48,-1175.48C3540.14,-1175.48 3531.81,-1175.48 3523.48,-1175.48"/>
+<polygon fill="black" stroke="black" points="3513.31,-1175.48 3523.31,-1170.98 3518.31,-1175.48 3523.31,-1175.48 3523.31,-1175.48 3523.31,-1175.48 3518.31,-1175.48 3523.31,-1179.98 3513.31,-1175.48 3513.31,-1175.48"/>
 </g>
 <!-- BurgerStation 13 -->
 <g id="node8" class="node">
 <title>BurgerStation 13</title>
-<ellipse fill="none" stroke="#00008b" cx="4151" cy="-1175.48" rx="71.49" ry="18"/>
-<text text-anchor="middle" x="4151" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">BurgerStation 13</text>
+<ellipse fill="none" stroke="#00008b" cx="4659" cy="-1175.48" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="4659" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">BurgerStation 13</text>
 </g>
 <!-- Resident Evil 13 -->
 <g id="node9" class="node">
 <title>Resident Evil 13</title>
-<ellipse fill="none" stroke="#b22222" cx="3974" cy="-1175.48" rx="69.59" ry="18"/>
-<text text-anchor="middle" x="3974" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Resident Evil 13</text>
+<ellipse fill="none" stroke="#b22222" cx="4482" cy="-1175.48" rx="69.59" ry="18"/>
+<text text-anchor="middle" x="4482" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Resident Evil 13</text>
 </g>
 <!-- BurgerStation 13&#45;&gt;Resident Evil 13 -->
 <g id="edge2" class="edge">
 <title>BurgerStation 13&#45;&gt;Resident Evil 13</title>
-<path fill="none" stroke="black" d="M4079.42,-1175.48C4070.89,-1175.48 4062.36,-1175.48 4053.84,-1175.48"/>
-<polygon fill="black" stroke="black" points="4043.83,-1175.48 4053.83,-1170.98 4048.83,-1175.48 4053.83,-1175.48 4053.83,-1175.48 4053.83,-1175.48 4048.83,-1175.48 4053.83,-1179.98 4043.83,-1175.48 4043.83,-1175.48"/>
+<path fill="none" stroke="black" d="M4587.42,-1175.48C4578.89,-1175.48 4570.36,-1175.48 4561.84,-1175.48"/>
+<polygon fill="black" stroke="black" points="4551.83,-1175.48 4561.83,-1170.98 4556.83,-1175.48 4561.83,-1175.48 4561.83,-1175.48 4561.83,-1175.48 4556.83,-1175.48 4561.83,-1179.98 4551.83,-1175.48 4551.83,-1175.48"/>
 </g>
 <!-- Lili station -->
 <g id="node10" class="node">
 <title>Lili station</title>
-<ellipse fill="none" stroke="#b22222" cx="3838" cy="-1175.48" rx="48.19" ry="18"/>
-<text text-anchor="middle" x="3838" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Lili station</text>
+<ellipse fill="none" stroke="#b22222" cx="4346" cy="-1175.48" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="4346" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Lili station</text>
 </g>
 <!-- cbay -->
 <g id="node11" class="node">
 <title>cbay</title>
-<ellipse fill="none" stroke="#b22222" cx="3726" cy="-1175.48" rx="28.7" ry="18"/>
-<text text-anchor="middle" x="3726" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">cbay</text>
+<ellipse fill="none" stroke="#b22222" cx="4234" cy="-1175.48" rx="28.7" ry="18"/>
+<text text-anchor="middle" x="4234" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">cbay</text>
 </g>
 <!-- Lili station&#45;&gt;cbay -->
 <g id="edge3" class="edge">
 <title>Lili station&#45;&gt;cbay</title>
-<path fill="none" stroke="black" d="M3789.62,-1175.48C3781.39,-1175.48 3773.15,-1175.48 3764.92,-1175.48"/>
-<polygon fill="black" stroke="black" points="3754.88,-1175.48 3764.88,-1170.98 3759.88,-1175.48 3764.88,-1175.48 3764.88,-1175.48 3764.88,-1175.48 3759.88,-1175.48 3764.87,-1179.98 3754.88,-1175.48 3754.88,-1175.48"/>
+<path fill="none" stroke="black" d="M4297.62,-1175.48C4289.39,-1175.48 4281.15,-1175.48 4272.92,-1175.48"/>
+<polygon fill="black" stroke="black" points="4262.88,-1175.48 4272.88,-1170.98 4267.88,-1175.48 4272.88,-1175.48 4272.88,-1175.48 4272.88,-1175.48 4267.88,-1175.48 4272.87,-1179.98 4262.88,-1175.48 4262.88,-1175.48"/>
 </g>
 <!-- Ashen Sky -->
 <g id="node12" class="node">
 <title>Ashen Sky</title>
-<ellipse fill="none" stroke="#b22222" cx="3629" cy="-1175.48" rx="50.09" ry="18"/>
-<text text-anchor="middle" x="3629" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Ashen Sky</text>
+<ellipse fill="none" stroke="#b22222" cx="4137" cy="-1175.48" rx="50.09" ry="18"/>
+<text text-anchor="middle" x="4137" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Ashen Sky</text>
 </g>
 <!-- fp -->
 <g id="node13" class="node">
 <title>fp</title>
-<ellipse fill="none" stroke="#b22222" cx="3534" cy="-1175.48" rx="27" ry="18"/>
-<text text-anchor="middle" x="3534" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">fp</text>
+<ellipse fill="none" stroke="#b22222" cx="4042" cy="-1175.48" rx="27" ry="18"/>
+<text text-anchor="middle" x="4042" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">fp</text>
 </g>
 <!-- Redux -->
 <g id="node14" class="node">
 <title>Redux</title>
-<ellipse fill="none" stroke="#b22222" cx="3455" cy="-1175.48" rx="34.39" ry="18"/>
-<text text-anchor="middle" x="3455" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Redux</text>
+<ellipse fill="none" stroke="#b22222" cx="3963" cy="-1175.48" rx="34.39" ry="18"/>
+<text text-anchor="middle" x="3963" y="-1171.78" font-family="Times New Roman,serif" font-size="14.00">Redux</text>
 </g>
 <!-- Animus Station -->
 <g id="node15" class="node">
@@ -273,7 +273,7 @@
 <polygon fill="black" stroke="black" points="4148.71,-588.32 4159.66,-587.84 4153.35,-590.17 4158,-592.02 4158,-592.02 4158,-592.02 4153.35,-590.17 4156.33,-596.2 4148.71,-588.32 4148.71,-588.32"/>
 </g>
 <!-- Apollo Station -->
-<g id="node89" class="node">
+<g id="node90" class="node">
 <title>Apollo Station</title>
 <ellipse fill="none" stroke="#00008b" cx="4238" cy="-576.74" rx="63.89" ry="18"/>
 <text text-anchor="middle" x="4238" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Apollo Station</text>
@@ -285,7 +285,7 @@
 <polygon fill="black" stroke="black" points="4259.68,-593.77 4270.4,-596.09 4263.7,-596.74 4267.72,-599.71 4267.72,-599.71 4267.72,-599.71 4263.7,-596.74 4265.05,-603.33 4259.68,-593.77 4259.68,-593.77"/>
 </g>
 <!-- BeeStation -->
-<g id="node90" class="node">
+<g id="node91" class="node">
 <title>BeeStation</title>
 <ellipse fill="none" stroke="#00008b" cx="3768" cy="-576.74" rx="50.09" ry="18"/>
 <text text-anchor="middle" x="3768" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">BeeStation</text>
@@ -297,7 +297,7 @@
 <polygon fill="black" stroke="black" points="3804.61,-589.19 3815.43,-587.42 3809.45,-590.48 3814.28,-591.77 3814.28,-591.77 3814.28,-591.77 3809.45,-590.48 3813.12,-596.11 3804.61,-589.19 3804.61,-589.19"/>
 </g>
 <!-- Citadel Main -->
-<g id="node91" class="node">
+<g id="node92" class="node">
 <title>Citadel Main</title>
 <ellipse fill="none" stroke="#00008b" cx="4015" cy="-576.74" rx="56.59" ry="18"/>
 <text text-anchor="middle" x="4015" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Citadel Main</text>
@@ -309,7 +309,7 @@
 <polygon fill="black" stroke="black" points="4057.6,-588.75 4068.4,-586.88 4062.44,-589.99 4067.28,-591.23 4067.28,-591.23 4067.28,-591.23 4062.44,-589.99 4066.16,-595.59 4057.6,-588.75 4057.6,-588.75"/>
 </g>
 <!-- Fallout 13 -->
-<g id="node92" class="node">
+<g id="node93" class="node">
 <title>Fallout 13</title>
 <ellipse fill="none" stroke="#00008b" cx="4477" cy="-576.74" rx="46.59" ry="18"/>
 <text text-anchor="middle" x="4477" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Fallout 13</text>
@@ -321,7 +321,7 @@
 <polygon fill="black" stroke="black" points="4454.85,-592.92 4449.15,-602.29 4450.73,-595.75 4446.61,-598.58 4446.61,-598.58 4446.61,-598.58 4450.73,-595.75 4444.06,-594.86 4454.85,-592.92 4454.85,-592.92"/>
 </g>
 <!-- FTL13 -->
-<g id="node93" class="node">
+<g id="node94" class="node">
 <title>FTL13</title>
 <ellipse fill="none" stroke="#00008b" cx="5094" cy="-416.74" rx="36.29" ry="18"/>
 <text text-anchor="middle" x="5094" y="-413.04" font-family="Times New Roman,serif" font-size="14.00">FTL13</text>
@@ -333,7 +333,7 @@
 <polygon fill="black" stroke="black" points="5122.44,-428.04 5133.38,-427.32 5127.13,-429.79 5131.81,-431.53 5131.81,-431.53 5131.81,-431.53 5127.13,-429.79 5130.24,-435.75 5122.44,-428.04 5122.44,-428.04"/>
 </g>
 <!-- HippieStation -->
-<g id="node94" class="node">
+<g id="node95" class="node">
 <title>HippieStation</title>
 <ellipse fill="none" stroke="#00008b" cx="3482" cy="-576.74" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="3482" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">HippieStation</text>
@@ -345,7 +345,7 @@
 <polygon fill="black" stroke="black" points="3525.26,-589.23 3536.02,-587.08 3530.14,-590.35 3535.01,-591.47 3535.01,-591.47 3535.01,-591.47 3530.14,-590.35 3534,-595.85 3525.26,-589.23 3525.26,-589.23"/>
 </g>
 <!-- Horizon Station 13 -->
-<g id="node95" class="node">
+<g id="node96" class="node">
 <title>Horizon Station 13</title>
 <ellipse fill="none" stroke="#00008b" cx="4621" cy="-576.74" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="4621" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Horizon Station 13</text>
@@ -357,7 +357,7 @@
 <polygon fill="black" stroke="black" points="4576.92,-591.72 4568.75,-599.03 4572.16,-593.23 4567.39,-594.74 4567.39,-594.74 4567.39,-594.74 4572.16,-593.23 4566.03,-590.45 4576.92,-591.72 4576.92,-591.72"/>
 </g>
 <!-- Mojave Sun -->
-<g id="node96" class="node">
+<g id="node97" class="node">
 <title>Mojave Sun</title>
 <ellipse fill="none" stroke="#00008b" cx="4772" cy="-576.74" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="4772" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Mojave Sun</text>
@@ -369,7 +369,7 @@
 <polygon fill="black" stroke="black" points="4732.14,-589.06 4723.57,-595.9 4727.29,-590.3 4722.45,-591.54 4722.45,-591.54 4722.45,-591.54 4727.29,-590.3 4721.33,-587.18 4732.14,-589.06 4732.14,-589.06"/>
 </g>
 <!-- OracleStation -->
-<g id="node97" class="node">
+<g id="node98" class="node">
 <title>OracleStation</title>
 <ellipse fill="none" stroke="#00008b" cx="4924" cy="-576.74" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="4924" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">OracleStation</text>
@@ -381,7 +381,7 @@
 <polygon fill="black" stroke="black" points="4906.08,-594.07 4901.09,-603.83 4902.18,-597.19 4898.28,-600.32 4898.28,-600.32 4898.28,-600.32 4902.18,-597.19 4895.46,-596.81 4906.08,-594.07 4906.08,-594.07"/>
 </g>
 <!-- PSK Duda&#45;37 -->
-<g id="node98" class="node">
+<g id="node99" class="node">
 <title>PSK Duda&#45;37</title>
 <ellipse fill="none" stroke="#00008b" cx="5064" cy="-576.74" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="5064" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">PSK Duda&#45;37</text>
@@ -393,7 +393,7 @@
 <polygon fill="black" stroke="black" points="5024.38,-590.59 5016.12,-597.81 5019.6,-592.05 5014.81,-593.5 5014.81,-593.5 5014.81,-593.5 5019.6,-592.05 5013.5,-589.2 5024.38,-590.59 5024.38,-590.59"/>
 </g>
 <!-- Star Trek 13 -->
-<g id="node99" class="node">
+<g id="node100" class="node">
 <title>Star Trek 13</title>
 <ellipse fill="none" stroke="#00008b" cx="5334" cy="-576.74" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="5334" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Star Trek 13</text>
@@ -405,7 +405,7 @@
 <polygon fill="black" stroke="black" points="5293.63,-589.25 5284.97,-595.97 5288.77,-590.42 5283.91,-591.6 5283.91,-591.6 5283.91,-591.6 5288.77,-590.42 5282.86,-587.22 5293.63,-589.25 5293.63,-589.25"/>
 </g>
 <!-- Sunset Station -->
-<g id="node100" class="node">
+<g id="node101" class="node">
 <title>Sunset Station</title>
 <ellipse fill="none" stroke="#00008b" cx="5471" cy="-576.74" rx="63.09" ry="18"/>
 <text text-anchor="middle" x="5471" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Sunset Station</text>
@@ -417,7 +417,7 @@
 <polygon fill="black" stroke="black" points="5425.86,-589.36 5417.05,-595.88 5420.98,-590.42 5416.09,-591.49 5416.09,-591.49 5416.09,-591.49 5420.98,-590.42 5415.13,-587.09 5425.86,-589.36 5425.86,-589.36"/>
 </g>
 <!-- Toolbox Station -->
-<g id="node101" class="node">
+<g id="node102" class="node">
 <title>Toolbox Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3630" cy="-576.74" rx="70.39" ry="18"/>
 <text text-anchor="middle" x="3630" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Toolbox Station</text>
@@ -429,7 +429,7 @@
 <polygon fill="black" stroke="black" points="3680.88,-589.33 3691.57,-586.91 3685.78,-590.32 3690.68,-591.32 3690.68,-591.32 3690.68,-591.32 3685.78,-590.32 3689.78,-595.73 3680.88,-589.33 3680.88,-589.33"/>
 </g>
 <!-- WaspStation -->
-<g id="node102" class="node">
+<g id="node103" class="node">
 <title>WaspStation</title>
 <ellipse fill="none" stroke="#00008b" cx="5202" cy="-576.74" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="5202" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">WaspStation</text>
@@ -441,7 +441,7 @@
 <polygon fill="black" stroke="black" points="5159.62,-589.19 5150.93,-595.89 5154.75,-590.35 5149.89,-591.51 5149.89,-591.51 5149.89,-591.51 5154.75,-590.35 5148.85,-587.14 5159.62,-589.19 5159.62,-589.19"/>
 </g>
 <!-- YogStation -->
-<g id="node103" class="node">
+<g id="node104" class="node">
 <title>YogStation</title>
 <ellipse fill="none" stroke="#00008b" cx="3888" cy="-576.74" rx="51.99" ry="18"/>
 <text text-anchor="middle" x="3888" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">YogStation</text>
@@ -513,7 +513,7 @@
 <polygon fill="black" stroke="black" points="2310.74,-672.17 2321.16,-668.78 2315.71,-672.71 2320.68,-673.25 2320.68,-673.25 2320.68,-673.25 2315.71,-672.71 2320.19,-677.73 2310.74,-672.17 2310.74,-672.17"/>
 </g>
 <!-- Archangel -->
-<g id="node104" class="node">
+<g id="node105" class="node">
 <title>Archangel</title>
 <ellipse fill="none" stroke="#00008b" cx="2461" cy="-663.74" rx="47.39" ry="18"/>
 <text text-anchor="middle" x="2461" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Archangel</text>
@@ -525,7 +525,7 @@
 <polygon fill="black" stroke="black" points="2495.05,-676.28 2505.88,-674.52 2499.88,-677.58 2504.71,-678.87 2504.71,-678.87 2504.71,-678.87 2499.88,-677.58 2503.55,-683.22 2495.05,-676.28 2495.05,-676.28"/>
 </g>
 <!-- FacePunch Station -->
-<g id="node105" class="node">
+<g id="node106" class="node">
 <title>FacePunch Station</title>
 <ellipse fill="none" stroke="#00008b" cx="2606" cy="-663.74" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="2606" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">FacePunch Station</text>
@@ -537,7 +537,7 @@
 <polygon fill="black" stroke="black" points="2662.19,-676.52 2672.82,-673.86 2667.11,-677.4 2672.03,-678.28 2672.03,-678.28 2672.03,-678.28 2667.11,-677.4 2671.24,-682.71 2662.19,-676.52 2662.19,-676.52"/>
 </g>
 <!-- FreeTG Station -->
-<g id="node106" class="node">
+<g id="node107" class="node">
 <title>FreeTG Station</title>
 <ellipse fill="none" stroke="#00008b" cx="2771" cy="-663.74" rx="67.69" ry="18"/>
 <text text-anchor="middle" x="2771" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">FreeTG Station</text>
@@ -549,7 +549,7 @@
 <polygon fill="black" stroke="black" points="2820.16,-676.27 2830.87,-673.91 2825.06,-677.29 2829.95,-678.31 2829.95,-678.31 2829.95,-678.31 2825.06,-677.29 2829.04,-682.72 2820.16,-676.27 2820.16,-676.27"/>
 </g>
 <!-- HippieStation (Old) -->
-<g id="node107" class="node">
+<g id="node108" class="node">
 <title>HippieStation (Old)</title>
 <ellipse fill="none" stroke="#00008b" cx="3373" cy="-663.74" rx="81.79" ry="18"/>
 <text text-anchor="middle" x="3373" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">HippieStation (Old)</text>
@@ -561,7 +561,7 @@
 <polygon fill="black" stroke="black" points="3337.24,-680.04 3329.81,-688.11 3332.64,-682 3328.04,-683.97 3328.04,-683.97 3328.04,-683.97 3332.64,-682 3326.27,-679.83 3337.24,-680.04 3337.24,-680.04"/>
 </g>
 <!-- Nanotrasen Station -->
-<g id="node108" class="node">
+<g id="node109" class="node">
 <title>Nanotrasen Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3050" cy="-663.74" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="3050" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Nanotrasen Station</text>
@@ -573,7 +573,7 @@
 <polygon fill="black" stroke="black" points="3083.82,-680.04 3094.79,-680.06 3088.38,-682.1 3092.93,-684.16 3092.93,-684.16 3092.93,-684.16 3088.38,-682.1 3091.08,-688.26 3083.82,-680.04 3083.82,-680.04"/>
 </g>
 <!-- Novux Station -->
-<g id="node109" class="node">
+<g id="node110" class="node">
 <title>Novux Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3210" cy="-663.74" rx="63.09" ry="18"/>
 <text text-anchor="middle" x="3210" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Novux Station</text>
@@ -585,7 +585,7 @@
 <polygon fill="black" stroke="black" points="3209.28,-681.77 3213.35,-691.95 3209.07,-686.76 3208.86,-691.76 3208.86,-691.76 3208.86,-691.76 3209.07,-686.76 3204.36,-691.57 3209.28,-681.77 3209.28,-681.77"/>
 </g>
 <!-- NTStation -->
-<g id="node110" class="node">
+<g id="node111" class="node">
 <title>NTStation</title>
 <ellipse fill="none" stroke="#00008b" cx="2905" cy="-663.74" rx="48.19" ry="18"/>
 <text text-anchor="middle" x="2905" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">NTStation</text>
@@ -597,7 +597,7 @@
 <polygon fill="black" stroke="black" points="2940.76,-675.87 2951.61,-674.29 2945.57,-677.24 2950.38,-678.62 2950.38,-678.62 2950.38,-678.62 2945.57,-677.24 2949.14,-682.95 2940.76,-675.87 2940.76,-675.87"/>
 </g>
 <!-- Pony(/Tabun/Rainbow) Station 13 -->
-<g id="node111" class="node">
+<g id="node112" class="node">
 <title>Pony(/Tabun/Rainbow) Station 13</title>
 <ellipse fill="none" stroke="#00008b" cx="3609" cy="-663.74" rx="135.68" ry="18"/>
 <text text-anchor="middle" x="3609" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Pony(/Tabun/Rainbow) Station 13</text>
@@ -609,7 +609,7 @@
 <polygon fill="black" stroke="black" points="3519.62,-677.37 3510.39,-683.3 3514.67,-678.11 3509.73,-678.85 3509.73,-678.85 3509.73,-678.85 3514.67,-678.11 3509.06,-674.4 3519.62,-677.37 3519.62,-677.37"/>
 </g>
 <!-- Traitor Death Match -->
-<g id="node112" class="node">
+<g id="node113" class="node">
 <title>Traitor Death Match</title>
 <ellipse fill="none" stroke="#00008b" cx="3847" cy="-663.74" rx="84.49" ry="18"/>
 <text text-anchor="middle" x="3847" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Traitor Death Match</text>
@@ -621,7 +621,7 @@
 <polygon fill="black" stroke="black" points="3788.14,-676.68 3779.01,-682.77 3783.2,-677.51 3778.27,-678.33 3778.27,-678.33 3778.27,-678.33 3783.2,-677.51 3777.53,-673.89 3788.14,-676.68 3788.14,-676.68"/>
 </g>
 <!-- Urist McStation v1 -->
-<g id="node113" class="node">
+<g id="node114" class="node">
 <title>Urist McStation v1</title>
 <ellipse fill="none" stroke="#00008b" cx="4029" cy="-663.74" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="4029" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">Urist McStation v1</text>
@@ -633,7 +633,7 @@
 <polygon fill="black" stroke="black" points="3973.65,-676.68 3964.57,-682.82 3968.73,-677.53 3963.8,-678.38 3963.8,-678.38 3963.8,-678.38 3968.73,-677.53 3963.03,-673.95 3973.65,-676.68 3973.65,-676.68"/>
 </g>
 <!-- YogStation (Old) -->
-<g id="node114" class="node">
+<g id="node115" class="node">
 <title>YogStation (Old)</title>
 <ellipse fill="none" stroke="#00008b" cx="4200" cy="-663.74" rx="73.39" ry="18"/>
 <text text-anchor="middle" x="4200" y="-660.04" font-family="Times New Roman,serif" font-size="14.00">YogStation (Old)</text>
@@ -675,7 +675,7 @@
 <polygon fill="black" stroke="black" points="1371.56,-502.82 1381.96,-499.36 1376.53,-503.33 1381.51,-503.84 1381.51,-503.84 1381.51,-503.84 1376.53,-503.33 1381.05,-508.32 1371.56,-502.82 1371.56,-502.82"/>
 </g>
 <!-- Atlas Station v2 -->
-<g id="node115" class="node">
+<g id="node116" class="node">
 <title>Atlas Station v2</title>
 <ellipse fill="none" stroke="#00008b" cx="1666" cy="-489.74" rx="68.49" ry="18"/>
 <text text-anchor="middle" x="1666" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Atlas Station v2</text>
@@ -687,7 +687,7 @@
 <polygon fill="black" stroke="black" points="1714.47,-502.56 1725.15,-500.09 1719.37,-503.53 1724.28,-504.5 1724.28,-504.5 1724.28,-504.5 1719.37,-503.53 1723.4,-508.92 1714.47,-502.56 1714.47,-502.56"/>
 </g>
 <!-- Digital Marines: Colonial Aliens (DM;CA) -->
-<g id="node143" class="node">
+<g id="node144" class="node">
 <title>Digital Marines: Colonial Aliens (DM;CA)</title>
 <ellipse fill="none" stroke="#00008b" cx="1116" cy="-416.74" rx="161.67" ry="18"/>
 <text text-anchor="middle" x="1116" y="-413.04" font-family="Times New Roman,serif" font-size="14.00">Digital Marines: Colonial Aliens (DM;CA)</text>
@@ -837,7 +837,7 @@
 <polygon fill="black" stroke="black" points="2963.04,-507.05 2955.97,-515.44 2958.53,-509.21 2954.02,-511.38 2954.02,-511.38 2954.02,-511.38 2958.53,-509.21 2952.07,-507.32 2963.04,-507.05 2963.04,-507.05"/>
 </g>
 <!-- Aurora Station -->
-<g id="node119" class="node">
+<g id="node120" class="node">
 <title>Aurora Station</title>
 <ellipse fill="none" stroke="#00008b" cx="2505" cy="-489.74" rx="63.89" ry="18"/>
 <text text-anchor="middle" x="2505" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Aurora Station</text>
@@ -849,7 +849,7 @@
 <polygon fill="black" stroke="black" points="2524.9,-506.89 2535.63,-509.16 2528.94,-509.84 2532.97,-512.79 2532.97,-512.79 2532.97,-512.79 2528.94,-509.84 2530.32,-516.42 2524.9,-506.89 2524.9,-506.89"/>
 </g>
 <!-- Dead Space 13 (DS13) -->
-<g id="node122" class="node">
+<g id="node123" class="node">
 <title>Dead Space 13 (DS13)</title>
 <ellipse fill="none" stroke="#00008b" cx="3233" cy="-489.74" rx="94.78" ry="18"/>
 <text text-anchor="middle" x="3233" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Dead Space 13 (DS13)</text>
@@ -861,7 +861,7 @@
 <polygon fill="black" stroke="black" points="3170.17,-503.32 3161.25,-509.7 3165.27,-504.3 3160.36,-505.29 3160.36,-505.29 3160.36,-505.29 3165.27,-504.3 3159.48,-500.87 3170.17,-503.32 3170.17,-503.32"/>
 </g>
 <!-- Eris v2 -->
-<g id="node123" class="node">
+<g id="node124" class="node">
 <title>Eris v2</title>
 <ellipse fill="none" stroke="#00008b" cx="3382" cy="-489.74" rx="36.29" ry="18"/>
 <text text-anchor="middle" x="3382" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Eris v2</text>
@@ -873,7 +873,7 @@
 <polygon fill="black" stroke="black" points="3355.21,-502.09 3347.18,-509.56 3350.48,-503.69 3345.74,-505.29 3345.74,-505.29 3345.74,-505.29 3350.48,-503.69 3344.3,-501.03 3355.21,-502.09 3355.21,-502.09"/>
 </g>
 <!-- Europa Station -->
-<g id="node124" class="node">
+<g id="node125" class="node">
 <title>Europa Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3591" cy="-489.74" rx="64.99" ry="18"/>
 <text text-anchor="middle" x="3591" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Europa Station</text>
@@ -885,7 +885,7 @@
 <polygon fill="black" stroke="black" points="3543.75,-502.22 3534.94,-508.75 3538.87,-503.29 3533.98,-504.35 3533.98,-504.35 3533.98,-504.35 3538.87,-503.29 3533.03,-499.95 3543.75,-502.22 3543.75,-502.22"/>
 </g>
 <!-- Halo: Space Station Evolved -->
-<g id="node125" class="node">
+<g id="node126" class="node">
 <title>Halo: Space Station Evolved</title>
 <ellipse fill="none" stroke="#00008b" cx="3788" cy="-489.74" rx="114.28" ry="18"/>
 <text text-anchor="middle" x="3788" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Halo: Space Station Evolved</text>
@@ -897,7 +897,7 @@
 <polygon fill="black" stroke="black" points="3707.02,-502.5 3697.69,-508.27 3702.06,-503.15 3697.11,-503.81 3697.11,-503.81 3697.11,-503.81 3702.06,-503.15 3696.52,-499.35 3707.02,-502.5 3707.02,-502.5"/>
 </g>
 <!-- Persistence -->
-<g id="node126" class="node">
+<g id="node127" class="node">
 <title>Persistence</title>
 <ellipse fill="none" stroke="#00008b" cx="2523" cy="-416.74" rx="51.99" ry="18"/>
 <text text-anchor="middle" x="2523" y="-413.04" font-family="Times New Roman,serif" font-size="14.00">Persistence</text>
@@ -909,7 +909,7 @@
 <polygon fill="black" stroke="black" points="2541.68,-433.58 2552.08,-437.05 2545.36,-436.97 2549.04,-440.36 2549.04,-440.36 2549.04,-440.36 2545.36,-436.97 2545.99,-443.67 2541.68,-433.58 2541.68,-433.58"/>
 </g>
 <!-- Polaris -->
-<g id="node127" class="node">
+<g id="node128" class="node">
 <title>Polaris</title>
 <ellipse fill="none" stroke="#00008b" cx="3472" cy="-489.74" rx="36" ry="18"/>
 <text text-anchor="middle" x="3472" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Polaris</text>
@@ -921,7 +921,7 @@
 <polygon fill="black" stroke="black" points="3445.2,-502.04 3437.18,-509.52 3440.47,-503.65 3435.73,-505.26 3435.73,-505.26 3435.73,-505.26 3440.47,-503.65 3434.28,-501 3445.2,-502.04 3445.2,-502.04"/>
 </g>
 <!-- SCP&#45;13 -->
-<g id="node128" class="node">
+<g id="node129" class="node">
 <title>SCP&#45;13</title>
 <ellipse fill="none" stroke="#00008b" cx="3960" cy="-489.74" rx="39.79" ry="18"/>
 <text text-anchor="middle" x="3960" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">SCP&#45;13</text>
@@ -933,7 +933,7 @@
 <polygon fill="black" stroke="black" points="3931.08,-502.21 3922.85,-509.46 3926.3,-503.68 3921.52,-505.16 3921.52,-505.16 3921.52,-505.16 3926.3,-503.68 3920.2,-500.86 3931.08,-502.21 3931.08,-502.21"/>
 </g>
 <!-- Urist McStation v2 -->
-<g id="node129" class="node">
+<g id="node130" class="node">
 <title>Urist McStation v2</title>
 <ellipse fill="none" stroke="#00008b" cx="2686" cy="-489.74" rx="79.09" ry="18"/>
 <text text-anchor="middle" x="2686" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Urist McStation v2</text>
@@ -1042,7 +1042,7 @@
 <polygon fill="black" stroke="black" points="2448.05,-588.98 2440.18,-596.63 2443.35,-590.69 2438.65,-592.4 2438.65,-592.4 2438.65,-592.4 2443.35,-590.69 2437.11,-588.17 2448.05,-588.98 2448.05,-588.98"/>
 </g>
 <!-- Aurora (Old) -->
-<g id="node118" class="node">
+<g id="node119" class="node">
 <title>Aurora (Old)</title>
 <ellipse fill="none" stroke="#00008b" cx="2596" cy="-576.74" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="2596" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Aurora (Old)</text>
@@ -1054,7 +1054,7 @@
 <polygon fill="black" stroke="black" points="2553.07,-588.92 2544.49,-595.74 2548.22,-590.15 2543.38,-591.38 2543.38,-591.38 2543.38,-591.38 2548.22,-590.15 2542.27,-587.02 2553.07,-588.92 2553.07,-588.92"/>
 </g>
 <!-- BestRP -->
-<g id="node130" class="node">
+<g id="node131" class="node">
 <title>BestRP</title>
 <ellipse fill="none" stroke="#00008b" cx="1413" cy="-576.74" rx="38.19" ry="18"/>
 <text text-anchor="middle" x="1413" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">BestRP</text>
@@ -1066,7 +1066,7 @@
 <polygon fill="black" stroke="black" points="1440.98,-589.21 1451.88,-587.99 1445.74,-590.74 1450.5,-592.27 1450.5,-592.27 1450.5,-592.27 1445.74,-590.74 1449.12,-596.55 1440.98,-589.21 1440.98,-589.21"/>
 </g>
 <!-- Colonial Marines (CM) -->
-<g id="node131" class="node">
+<g id="node132" class="node">
 <title>Colonial Marines (CM)</title>
 <ellipse fill="none" stroke="#00008b" cx="1564" cy="-576.74" rx="94.78" ry="18"/>
 <text text-anchor="middle" x="1564" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Colonial Marines (CM)</text>
@@ -1078,7 +1078,7 @@
 <polygon fill="black" stroke="black" points="1631.6,-589.4 1642.18,-586.49 1636.54,-590.17 1641.48,-590.94 1641.48,-590.94 1641.48,-590.94 1636.54,-590.17 1640.79,-595.38 1631.6,-589.4 1631.6,-589.4"/>
 </g>
 <!-- RocketStation42 -->
-<g id="node132" class="node">
+<g id="node133" class="node">
 <title>RocketStation42</title>
 <ellipse fill="none" stroke="#00008b" cx="2245" cy="-576.74" rx="71.49" ry="18"/>
 <text text-anchor="middle" x="2245" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">RocketStation42</text>
@@ -1090,7 +1090,7 @@
 <polygon fill="black" stroke="black" points="2245,-594.92 2249.5,-604.92 2245,-599.92 2245,-604.92 2245,-604.92 2245,-604.92 2245,-599.92 2240.5,-604.92 2245,-594.92 2245,-594.92"/>
 </g>
 <!-- Tau Ceti -->
-<g id="node133" class="node">
+<g id="node134" class="node">
 <title>Tau Ceti</title>
 <ellipse fill="none" stroke="#00008b" cx="2377" cy="-576.74" rx="42.49" ry="18"/>
 <text text-anchor="middle" x="2377" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Tau Ceti</text>
@@ -1302,7 +1302,7 @@
 <polygon fill="black" stroke="black" points="3292.54,-350.92 3285.46,-359.29 3288.03,-353.07 3283.52,-355.23 3283.52,-355.23 3283.52,-355.23 3288.03,-353.07 3281.58,-351.17 3292.54,-350.92 3292.54,-350.92"/>
 </g>
 <!-- InterStation&#45;Two -->
-<g id="node139" class="node">
+<g id="node140" class="node">
 <title>InterStation&#45;Two</title>
 <ellipse fill="none" stroke="#00008b" cx="2797" cy="-334.87" rx="72.59" ry="18"/>
 <text text-anchor="middle" x="2797" y="-331.17" font-family="Times New Roman,serif" font-size="14.00">InterStation&#45;Two</text>
@@ -1314,7 +1314,7 @@
 <polygon fill="black" stroke="black" points="2838,-349.93 2848.89,-348.63 2842.78,-351.43 2847.55,-352.92 2847.55,-352.92 2847.55,-352.92 2842.78,-351.43 2846.2,-357.21 2838,-349.93 2838,-349.93"/>
 </g>
 <!-- NEV Northern Light -->
-<g id="node140" class="node">
+<g id="node141" class="node">
 <title>NEV Northern Light</title>
 <ellipse fill="none" stroke="#00008b" cx="2972" cy="-334.87" rx="84.49" ry="18"/>
 <text text-anchor="middle" x="2972" y="-331.17" font-family="Times New Roman,serif" font-size="14.00">NEV Northern Light</text>
@@ -1351,7 +1351,7 @@
 <polygon fill="red" stroke="red" points="3263.5,-832.8 3274.37,-831.39 3268.29,-834.25 3273.07,-835.69 3273.07,-835.69 3273.07,-835.69 3268.29,-834.25 3271.77,-840 3263.5,-832.8 3263.5,-832.8"/>
 </g>
 <!-- Goonstation (2009 Public SVN) -->
-<g id="node150" class="node">
+<g id="node151" class="node">
 <title>Goonstation (2009 Public SVN)</title>
 <ellipse fill="none" stroke="#00008b" cx="3538" cy="-814.74" rx="127.28" ry="18"/>
 <text text-anchor="middle" x="3538" y="-811.04" font-family="Times New Roman,serif" font-size="14.00">Goonstation (2009 Public SVN)</text>
@@ -1363,7 +1363,7 @@
 <polygon fill="red" stroke="red" points="3531.77,-832.73 3532.55,-843.67 3530.05,-837.43 3528.33,-842.12 3528.33,-842.12 3528.33,-842.12 3530.05,-837.43 3524.1,-840.57 3531.77,-832.73 3531.77,-832.73"/>
 </g>
 <!-- Goonstation (2016 Release) -->
-<g id="node152" class="node">
+<g id="node153" class="node">
 <title>Goonstation (2016 Release)</title>
 <ellipse fill="none" stroke="#00008b" cx="3812" cy="-814.74" rx="111.58" ry="18"/>
 <text text-anchor="middle" x="3812" y="-811.04" font-family="Times New Roman,serif" font-size="14.00">Goonstation (2016 Release)</text>
@@ -1375,7 +1375,7 @@
 <polygon fill="red" stroke="red" points="3760.58,-830.81 3752.25,-837.95 3755.78,-832.22 3750.99,-833.63 3750.99,-833.63 3750.99,-833.63 3755.78,-832.22 3749.72,-829.31 3760.58,-830.81 3760.58,-830.81"/>
 </g>
 <!-- Goonstation (Open Source) -->
-<g id="node155" class="node">
+<g id="node156" class="node">
 <title>Goonstation (Open Source)</title>
 <ellipse fill="none" stroke="#00008b" cx="4108" cy="-814.74" rx="112.38" ry="18"/>
 <text text-anchor="middle" x="4108" y="-811.04" font-family="Times New Roman,serif" font-size="14.00">Goonstation (Open Source)</text>
@@ -1435,7 +1435,7 @@
 <polygon fill="black" stroke="black" points="413.06,-502.06 423.9,-500.4 417.88,-503.4 422.7,-504.73 422.7,-504.73 422.7,-504.73 417.88,-503.4 421.5,-509.07 413.06,-502.06 413.06,-502.06"/>
 </g>
 <!-- Cadia Station -->
-<g id="node158" class="node">
+<g id="node159" class="node">
 <title>Cadia Station</title>
 <ellipse fill="none" stroke="#00008b" cx="504" cy="-489.74" rx="59.59" ry="18"/>
 <text text-anchor="middle" x="504" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Cadia Station</text>
@@ -1555,7 +1555,7 @@
 <polygon fill="black" stroke="black" points="3693.87,-351.54 3687.93,-360.76 3689.67,-354.26 3685.48,-356.99 3685.48,-356.99 3685.48,-356.99 3689.67,-354.26 3683.03,-353.21 3693.87,-351.54 3693.87,-351.54"/>
 </g>
 <!-- AEIOU -->
-<g id="node116" class="node">
+<g id="node117" class="node">
 <title>AEIOU</title>
 <ellipse fill="none" stroke="#00008b" cx="3833" cy="-334.87" rx="38.19" ry="18"/>
 <text text-anchor="middle" x="3833" y="-331.17" font-family="Times New Roman,serif" font-size="14.00">AEIOU</text>
@@ -1657,22 +1657,25 @@
 <text text-anchor="middle" x="3243" y="-1179.28" font-family="Times New Roman,serif" font-size="14.00">Original «SS13» </text>
 <text text-anchor="middle" x="3243" y="-1164.28" font-family="Times New Roman,serif" font-size="14.00">(Pre&#45;open)</text>
 </g>
-<!-- OpenSS13 (2008/03) -->
-<g id="node162" class="node">
-<title>OpenSS13 (2008/03)</title>
-<ellipse fill="none" stroke="#00008b" cx="3425" cy="-1052.74" rx="87.18" ry="18"/>
-<text text-anchor="middle" x="3425" y="-1049.04" font-family="Times New Roman,serif" font-size="14.00">OpenSS13 (2008/03)</text>
+<!-- OpenSS13 -->
+<g id="node89" class="node">
+<title>OpenSS13</title>
+<g id="a_node89"><a xlink:href="./../notes/OpenSS13_2008-13.html" xlink:title="&lt;b&gt;&lt;u&gt;OpenSS13 (2008/03)&lt;/u&gt;&lt;/b&gt;">
+<ellipse fill="none" stroke="#00008b" cx="3425" cy="-1052.74" rx="92.88" ry="18"/>
+<text text-anchor="start" x="3361.5" y="-1050.04" font-family="Times New Roman,serif" font-weight="bold" text-decoration="underline" font-size="14.00" fill="blue">OpenSS13 (2008/03)</text>
+</a>
 </g>
-<!-- Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 (2008/03) -->
+</g>
+<!-- Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 -->
 <g id="edge152" class="edge">
-<title>Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 (2008/03)</title>
-<path fill="none" stroke="black" d="M3232.89,-1126.5C3232.68,-1112.98 3235.32,-1099.14 3244,-1088.74 3256,-1074.36 3294.87,-1065.82 3333.52,-1060.77"/>
-<polygon fill="black" stroke="black" points="3343.85,-1059.5 3334.48,-1065.19 3338.89,-1060.11 3333.93,-1060.72 3333.93,-1060.72 3333.93,-1060.72 3338.89,-1060.11 3333.38,-1056.26 3343.85,-1059.5 3343.85,-1059.5"/>
+<title>Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13</title>
+<path fill="none" stroke="black" d="M3232.89,-1126.5C3232.68,-1112.98 3235.32,-1099.14 3244,-1088.74 3255.58,-1074.87 3292.16,-1066.43 3329.43,-1061.32"/>
+<polygon fill="black" stroke="black" points="3339.42,-1060.03 3330.07,-1065.77 3334.46,-1060.67 3329.5,-1061.31 3329.5,-1061.31 3329.5,-1061.31 3334.46,-1060.67 3328.92,-1056.85 3339.42,-1060.03 3339.42,-1060.03"/>
 <text text-anchor="middle" x="3323.5" y="-1092.54" font-family="Times New Roman,serif" font-size="14.00">[Decompilation by Hobnob]</text>
 </g>
-<!-- Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 (2008/03) -->
+<!-- Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 -->
 <g id="edge153" class="edge">
-<title>Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13 (2008/03)</title>
+<title>Original «SS13» \n(Pre&#45;open)&#45;&gt;OpenSS13</title>
 <path fill="none" stroke="black" d="M3312.29,-1156.38C3343.23,-1145.39 3378.22,-1128.57 3403,-1103.74 3409.45,-1097.28 3414.16,-1088.6 3417.53,-1080.29"/>
 <polygon fill="black" stroke="black" points="3420.89,-1070.86 3421.77,-1081.79 3419.21,-1075.57 3417.54,-1080.28 3417.54,-1080.28 3417.54,-1080.28 3419.21,-1075.57 3413.3,-1078.77 3420.89,-1070.86 3420.89,-1070.86"/>
 <text text-anchor="middle" x="3509.5" y="-1092.54" font-family="Times New Roman,serif" font-size="14.00">[Source given to AZA by Exdav1]</text>
@@ -1713,8 +1716,32 @@
 <path fill="none" stroke="black" d="M3173.34,-796.68C3150.46,-785.09 3120.12,-769.72 3096.16,-757.58"/>
 <polygon fill="black" stroke="black" points="3086.99,-752.94 3097.95,-753.44 3091.45,-755.2 3095.91,-757.46 3095.91,-757.46 3095.91,-757.46 3091.45,-755.2 3093.88,-761.47 3086.99,-752.94 3086.99,-752.94"/>
 </g>
+<!-- Donut Station -->
+<g id="node146" class="node">
+<title>Donut Station</title>
+<ellipse fill="none" stroke="#00008b" cx="3425" cy="-979.74" rx="61.19" ry="18"/>
+<text text-anchor="middle" x="3425" y="-976.04" font-family="Times New Roman,serif" font-size="14.00">Donut Station</text>
+</g>
+<!-- OpenSS13&#45;&gt;Donut Station -->
+<g id="edge151" class="edge">
+<title>OpenSS13&#45;&gt;Donut Station</title>
+<path fill="none" stroke="black" d="M3425,-1034.55C3425,-1026.53 3425,-1016.79 3425,-1007.81"/>
+<polygon fill="black" stroke="black" points="3425,-997.77 3429.5,-1007.77 3425,-1002.77 3425,-1007.77 3425,-1007.77 3425,-1007.77 3425,-1002.77 3420.5,-1007.77 3425,-997.77 3425,-997.77"/>
+</g>
+<!-- BayStation12 (OpenSS13, pre Goon) -->
+<g id="node163" class="node">
+<title>BayStation12 (OpenSS13, pre Goon)</title>
+<ellipse fill="none" stroke="#00008b" cx="3651" cy="-979.74" rx="146.77" ry="18"/>
+<text text-anchor="middle" x="3651" y="-976.04" font-family="Times New Roman,serif" font-size="14.00">BayStation12 (OpenSS13, pre Goon)</text>
+</g>
+<!-- OpenSS13&#45;&gt;BayStation12 (OpenSS13, pre Goon) -->
+<g id="edge150" class="edge">
+<title>OpenSS13&#45;&gt;BayStation12 (OpenSS13, pre Goon)</title>
+<path fill="none" stroke="black" d="M3471.55,-1037.11C3505.95,-1026.31 3553.09,-1011.5 3590.42,-999.77"/>
+<polygon fill="black" stroke="black" points="3600.18,-996.71 3591.99,-1004 3595.41,-998.2 3590.64,-999.7 3590.64,-999.7 3590.64,-999.7 3595.41,-998.2 3589.29,-995.41 3600.18,-996.71 3600.18,-996.71"/>
+</g>
 <!-- AuStation -->
-<g id="node134" class="node">
+<g id="node135" class="node">
 <title>AuStation</title>
 <ellipse fill="none" stroke="#00008b" cx="4219" cy="-489.74" rx="46.59" ry="18"/>
 <text text-anchor="middle" x="4219" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">AuStation</text>
@@ -1726,7 +1753,7 @@
 <polygon fill="black" stroke="black" points="4185.26,-502.38 4176.78,-509.34 4180.43,-503.69 4175.61,-505 4175.61,-505 4175.61,-505 4180.43,-503.69 4174.43,-500.65 4185.26,-502.38 4185.26,-502.38"/>
 </g>
 <!-- NSV13 -->
-<g id="node135" class="node">
+<g id="node136" class="node">
 <title>NSV13</title>
 <ellipse fill="none" stroke="#00008b" cx="4321" cy="-489.74" rx="37.89" ry="18"/>
 <text text-anchor="middle" x="4321" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">NSV13</text>
@@ -1738,7 +1765,7 @@
 <polygon fill="black" stroke="black" points="4293.66,-502.34 4285.53,-509.7 4288.9,-503.88 4284.15,-505.42 4284.15,-505.42 4284.15,-505.42 4288.9,-503.88 4282.76,-501.14 4293.66,-502.34 4293.66,-502.34"/>
 </g>
 <!-- HyperStation -->
-<g id="node141" class="node">
+<g id="node142" class="node">
 <title>HyperStation</title>
 <ellipse fill="none" stroke="#00008b" cx="4690" cy="-489.74" rx="58.49" ry="18"/>
 <text text-anchor="middle" x="4690" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">HyperStation</text>
@@ -1750,7 +1777,7 @@
 <polygon fill="black" stroke="black" points="4648.54,-502.46 4639.78,-509.05 4643.66,-503.56 4638.79,-504.66 4638.79,-504.66 4638.79,-504.66 4643.66,-503.56 4637.8,-500.27 4648.54,-502.46 4648.54,-502.46"/>
 </g>
 <!-- Skyrat 13 -->
-<g id="node142" class="node">
+<g id="node143" class="node">
 <title>Skyrat 13</title>
 <ellipse fill="none" stroke="#00008b" cx="4812" cy="-489.74" rx="45.49" ry="18"/>
 <text text-anchor="middle" x="4812" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Skyrat 13</text>
@@ -1762,7 +1789,7 @@
 <polygon fill="black" stroke="black" points="4779.15,-502.21 4770.73,-509.23 4774.33,-503.55 4769.52,-504.9 4769.52,-504.9 4769.52,-504.9 4774.33,-503.55 4768.31,-500.56 4779.15,-502.21 4779.15,-502.21"/>
 </g>
 <!-- Desert Rose -->
-<g id="node148" class="node">
+<g id="node149" class="node">
 <title>Desert Rose</title>
 <ellipse fill="none" stroke="#00008b" cx="5155" cy="-489.74" rx="55.79" ry="18"/>
 <text text-anchor="middle" x="5155" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Desert Rose</text>
@@ -1774,7 +1801,7 @@
 <polygon fill="black" stroke="black" points="5114.66,-502.39 5105.97,-509.09 5109.79,-503.55 5104.93,-504.71 5104.93,-504.71 5104.93,-504.71 5109.79,-503.55 5103.89,-500.33 5114.66,-502.39 5114.66,-502.39"/>
 </g>
 <!-- Atlas Station v1 -->
-<g id="node157" class="node">
+<g id="node158" class="node">
 <title>Atlas Station v1</title>
 <ellipse fill="none" stroke="#00008b" cx="4086" cy="-489.74" rx="68.49" ry="18"/>
 <text text-anchor="middle" x="4086" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Atlas Station v1</text>
@@ -1798,7 +1825,7 @@
 <polygon fill="red" stroke="red" points="5443.01,-506.59 5436.97,-515.75 5438.78,-509.27 5434.56,-511.95 5434.56,-511.95 5434.56,-511.95 5438.78,-509.27 5432.15,-508.15 5443.01,-506.59 5443.01,-506.59"/>
 </g>
 <!-- Boomer Station -->
-<g id="node137" class="node">
+<g id="node138" class="node">
 <title>Boomer Station</title>
 <ellipse fill="none" stroke="#00008b" cx="5317" cy="-489.74" rx="67.69" ry="18"/>
 <text text-anchor="middle" x="5317" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Boomer Station</text>
@@ -1810,7 +1837,7 @@
 <polygon fill="red" stroke="red" points="5294.97,-507.02 5289.6,-516.59 5290.95,-509.99 5286.93,-512.97 5286.93,-512.97 5286.93,-512.97 5290.95,-509.99 5284.25,-509.35 5294.97,-507.02 5294.97,-507.02"/>
 </g>
 <!-- FTL13 (Old) -->
-<g id="node149" class="node">
+<g id="node150" class="node">
 <title>FTL13 (Old)</title>
 <ellipse fill="none" stroke="#00008b" cx="4435" cy="-489.74" rx="57.69" ry="18"/>
 <text text-anchor="middle" x="4435" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">FTL13 (Old)</text>
@@ -1834,7 +1861,7 @@
 <polygon fill="black" stroke="black" points="4525.5,-502.54 4516.9,-509.34 4520.65,-503.76 4515.8,-504.98 4515.8,-504.98 4515.8,-504.98 4520.65,-503.76 4514.7,-500.61 4525.5,-502.54 4525.5,-502.54"/>
 </g>
 <!-- Corporate Mercenar(&#45;y/&#45;ies) -->
-<g id="node147" class="node">
+<g id="node148" class="node">
 <title>Corporate Mercenar(&#45;y/&#45;ies)</title>
 <ellipse fill="none" stroke="#00008b" cx="3020" cy="-576.74" rx="112.38" ry="18"/>
 <text text-anchor="middle" x="3020" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">Corporate Mercenar(&#45;y/&#45;ies)</text>
@@ -1852,7 +1879,7 @@
 <polygon fill="red" stroke="red" points="3461.52,-593.71 3456.4,-603.41 3457.57,-596.79 3453.63,-599.86 3453.63,-599.86 3453.63,-599.86 3457.57,-596.79 3450.86,-596.31 3461.52,-593.71 3461.52,-593.71"/>
 </g>
 <!-- D20 Station -->
-<g id="node161" class="node">
+<g id="node162" class="node">
 <title>D20 Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3204" cy="-576.74" rx="53.89" ry="18"/>
 <text text-anchor="middle" x="3204" y="-573.04" font-family="Times New Roman,serif" font-size="14.00">D20 Station</text>
@@ -1870,7 +1897,7 @@
 <polygon fill="red" stroke="red" points="3919.19,-591.24 3930.15,-590.88 3923.82,-593.14 3928.44,-595.05 3928.44,-595.05 3928.44,-595.05 3923.82,-593.14 3926.73,-599.21 3919.19,-591.24 3919.19,-591.24"/>
 </g>
 <!-- Eclipse Station -->
-<g id="node117" class="node">
+<g id="node118" class="node">
 <title>Eclipse Station</title>
 <ellipse fill="none" stroke="#00008b" cx="3833" cy="-253" rx="64.99" ry="18"/>
 <text text-anchor="middle" x="3833" y="-249.3" font-family="Times New Roman,serif" font-size="14.00">Eclipse Station</text>
@@ -1888,13 +1915,13 @@
 <polygon fill="red" stroke="red" points="2515.32,-507.7 2524.69,-513.4 2518.15,-511.82 2520.98,-515.95 2520.98,-515.95 2520.98,-515.95 2518.15,-511.82 2517.26,-518.49 2515.32,-507.7 2515.32,-507.7"/>
 </g>
 <!-- Ava&#39;s Battlegrounds -->
-<g id="node120" class="node">
+<g id="node121" class="node">
 <title>Ava&#39;s Battlegrounds</title>
 <ellipse fill="none" stroke="#00008b" cx="2797" cy="-253" rx="83.69" ry="18"/>
 <text text-anchor="middle" x="2797" y="-249.3" font-family="Times New Roman,serif" font-size="14.00">Ava&#39;s Battlegrounds</text>
 </g>
 <!-- No Mans&#39;s Land -->
-<g id="node121" class="node">
+<g id="node122" class="node">
 <title>No Mans&#39;s Land</title>
 <ellipse fill="none" stroke="#00008b" cx="2797" cy="-180" rx="71.49" ry="18"/>
 <text text-anchor="middle" x="2797" y="-176.3" font-family="Times New Roman,serif" font-size="14.00">No Mans&#39;s Land</text>
@@ -1906,7 +1933,7 @@
 <polygon fill="black" stroke="black" points="2797,-198.03 2801.5,-208.03 2797,-203.03 2797,-208.03 2797,-208.03 2797,-208.03 2797,-203.03 2792.5,-208.03 2797,-198.03 2797,-198.03"/>
 </g>
 <!-- Lebensraum -->
-<g id="node159" class="node">
+<g id="node160" class="node">
 <title>Lebensraum</title>
 <ellipse fill="none" stroke="#00008b" cx="2797" cy="-107" rx="55.49" ry="18"/>
 <text text-anchor="middle" x="2797" y="-103.3" font-family="Times New Roman,serif" font-size="14.00">Lebensraum</text>
@@ -1924,7 +1951,7 @@
 <polygon fill="red" stroke="red" points="3193.09,-427.77 3203.94,-426.17 3197.9,-429.13 3202.71,-430.5 3202.71,-430.5 3202.71,-430.5 3197.9,-429.13 3201.48,-434.83 3193.09,-427.77 3193.09,-427.77"/>
 </g>
 <!-- Aliens Isolation -->
-<g id="node146" class="node">
+<g id="node147" class="node">
 <title>Aliens Isolation</title>
 <ellipse fill="none" stroke="#00008b" cx="3356" cy="-416.74" rx="66.89" ry="18"/>
 <text text-anchor="middle" x="3356" y="-413.04" font-family="Times New Roman,serif" font-size="14.00">Aliens Isolation</text>
@@ -1960,7 +1987,7 @@
 <polygon fill="black" stroke="black" points="3472,-434.77 3476.5,-444.77 3472,-439.77 3472,-444.77 3472,-444.77 3472,-444.77 3472,-439.77 3467.5,-444.77 3472,-434.77 3472,-434.77"/>
 </g>
 <!-- Unbound Travels -->
-<g id="node136" class="node">
+<g id="node137" class="node">
 <title>Unbound Travels</title>
 <ellipse fill="none" stroke="#00008b" cx="813" cy="-489.74" rx="74.19" ry="18"/>
 <text text-anchor="middle" x="813" y="-486.04" font-family="Times New Roman,serif" font-size="14.00">Unbound Travels</text>
@@ -1990,7 +2017,7 @@
 <polygon fill="black" stroke="black" points="813,-434.77 817.5,-444.77 813,-439.77 813,-444.77 813,-444.77 813,-444.77 813,-439.77 808.5,-444.77 813,-434.77 813,-434.77"/>
 </g>
 <!-- White Sands -->
-<g id="node138" class="node">
+<g id="node139" class="node">
 <title>White Sands</title>
 <ellipse fill="none" stroke="#00008b" cx="5386" cy="-416.74" rx="57.39" ry="18"/>
 <text text-anchor="middle" x="5386" y="-413.04" font-family="Times New Roman,serif" font-size="14.00">White Sands</text>
@@ -2008,7 +2035,7 @@
 <polygon fill="black" stroke="black" points="2797,-271.02 2801.5,-281.02 2797,-276.02 2797,-281.02 2797,-281.02 2797,-281.02 2797,-276.02 2792.5,-281.02 2797,-271.02 2797,-271.02"/>
 </g>
 <!-- TerraGov Marine Corps (TGMC) -->
-<g id="node144" class="node">
+<g id="node145" class="node">
 <title>TerraGov Marine Corps (TGMC)</title>
 <ellipse fill="none" stroke="#00008b" cx="1116" cy="-334.87" rx="133.78" ry="18"/>
 <text text-anchor="middle" x="1116" y="-331.17" font-family="Times New Roman,serif" font-size="14.00">TerraGov Marine Corps (TGMC)</text>
@@ -2031,12 +2058,6 @@
 <path fill="none" stroke="black" d="M1116,-316.54C1116,-306.21 1116,-292.88 1116,-281.18"/>
 <polygon fill="black" stroke="black" points="1116,-271.02 1120.5,-281.02 1116,-276.02 1116,-281.02 1116,-281.02 1116,-281.02 1116,-276.02 1111.5,-281.02 1116,-271.02 1116,-271.02"/>
 </g>
-<!-- Donut Station -->
-<g id="node145" class="node">
-<title>Donut Station</title>
-<ellipse fill="none" stroke="#00008b" cx="3425" cy="-979.74" rx="61.19" ry="18"/>
-<text text-anchor="middle" x="3425" y="-976.04" font-family="Times New Roman,serif" font-size="14.00">Donut Station</text>
-</g>
 <!-- Donut Station&#45;&gt;Goonstation -->
 <g id="edge128" class="edge">
 <title>Donut Station&#45;&gt;Goonstation</title>
@@ -2050,7 +2071,7 @@
 <polygon fill="red" stroke="red" points="5066.32,-428.58 5058.12,-435.86 5061.55,-430.07 5056.78,-431.57 5056.78,-431.57 5056.78,-431.57 5061.55,-430.07 5055.43,-427.27 5066.32,-428.58 5066.32,-428.58"/>
 </g>
 <!-- BayStation12 (Pre&#45;r4407) -->
-<g id="node151" class="node">
+<g id="node152" class="node">
 <title>BayStation12 (Pre&#45;r4407)</title>
 <ellipse fill="none" stroke="#00008b" cx="3580" cy="-736.74" rx="102.88" ry="18"/>
 <text text-anchor="middle" x="3580" y="-733.04" font-family="Times New Roman,serif" font-size="14.00">BayStation12 (Pre&#45;r4407)</text>
@@ -2062,7 +2083,7 @@
 <polygon fill="black" stroke="black" points="3570.51,-754.92 3569.61,-765.85 3568.09,-759.29 3565.67,-763.67 3565.67,-763.67 3565.67,-763.67 3568.09,-759.29 3561.73,-761.49 3570.51,-754.92 3570.51,-754.92"/>
 </g>
 <!-- Goonstation (2020 Release) -->
-<g id="node153" class="node">
+<g id="node154" class="node">
 <title>Goonstation (2020 Release)</title>
 <ellipse fill="none" stroke="#00008b" cx="3812" cy="-736.74" rx="111.58" ry="18"/>
 <text text-anchor="middle" x="3812" y="-733.04" font-family="Times New Roman,serif" font-size="14.00">Goonstation (2020 Release)</text>
@@ -2074,7 +2095,7 @@
 <polygon fill="red" stroke="red" points="3812,-754.92 3816.5,-764.92 3812,-759.92 3812,-764.92 3812,-764.92 3812,-764.92 3812,-759.92 3807.5,-764.92 3812,-754.92 3812,-754.92"/>
 </g>
 <!-- T/Goonstation -->
-<g id="node154" class="node">
+<g id="node155" class="node">
 <title>T/Goonstation</title>
 <ellipse fill="none" stroke="#00008b" cx="4005" cy="-736.74" rx="63.89" ry="18"/>
 <text text-anchor="middle" x="4005" y="-733.04" font-family="Times New Roman,serif" font-size="14.00">T/Goonstation</text>
@@ -2086,7 +2107,7 @@
 <polygon fill="black" stroke="black" points="3969.46,-751.73 3961.81,-759.59 3964.81,-753.57 3960.16,-755.4 3960.16,-755.4 3960.16,-755.4 3964.81,-753.57 3958.51,-751.21 3969.46,-751.73 3969.46,-751.73"/>
 </g>
 <!-- BeeStation Clover -->
-<g id="node156" class="node">
+<g id="node157" class="node">
 <title>BeeStation Clover</title>
 <ellipse fill="none" stroke="#00008b" cx="4163" cy="-736.74" rx="76.89" ry="18"/>
 <text text-anchor="middle" x="4163" y="-733.04" font-family="Times New Roman,serif" font-size="14.00">BeeStation Clover</text>
@@ -2098,7 +2119,7 @@
 <polygon fill="black" stroke="black" points="4150.76,-754.66 4148.54,-765.4 4147.83,-758.71 4144.9,-762.76 4144.9,-762.76 4144.9,-762.76 4147.83,-758.71 4141.25,-760.12 4150.76,-754.66 4150.76,-754.66"/>
 </g>
 <!-- Civilization 13 -->
-<g id="node160" class="node">
+<g id="node161" class="node">
 <title>Civilization 13</title>
 <ellipse fill="none" stroke="#00008b" cx="2797" cy="-34" rx="61.99" ry="18"/>
 <text text-anchor="middle" x="2797" y="-30.3" font-family="Times New Roman,serif" font-size="14.00">Civilization 13</text>
@@ -2108,24 +2129,6 @@
 <title>Lebensraum&#45;&gt;Civilization 13</title>
 <path fill="none" stroke="black" d="M2797,-88.81C2797,-80.79 2797,-71.05 2797,-62.07"/>
 <polygon fill="black" stroke="black" points="2797,-52.03 2801.5,-62.03 2797,-57.03 2797,-62.03 2797,-62.03 2797,-62.03 2797,-57.03 2792.5,-62.03 2797,-52.03 2797,-52.03"/>
-</g>
-<!-- OpenSS13 (2008/03)&#45;&gt;Donut Station -->
-<g id="edge151" class="edge">
-<title>OpenSS13 (2008/03)&#45;&gt;Donut Station</title>
-<path fill="none" stroke="black" d="M3425,-1034.55C3425,-1026.53 3425,-1016.79 3425,-1007.81"/>
-<polygon fill="black" stroke="black" points="3425,-997.77 3429.5,-1007.77 3425,-1002.77 3425,-1007.77 3425,-1007.77 3425,-1007.77 3425,-1002.77 3420.5,-1007.77 3425,-997.77 3425,-997.77"/>
-</g>
-<!-- BayStation12 (OpenSS13, pre Goon) -->
-<g id="node163" class="node">
-<title>BayStation12 (OpenSS13, pre Goon)</title>
-<ellipse fill="none" stroke="#00008b" cx="3651" cy="-979.74" rx="146.77" ry="18"/>
-<text text-anchor="middle" x="3651" y="-976.04" font-family="Times New Roman,serif" font-size="14.00">BayStation12 (OpenSS13, pre Goon)</text>
-</g>
-<!-- OpenSS13 (2008/03)&#45;&gt;BayStation12 (OpenSS13, pre Goon) -->
-<g id="edge150" class="edge">
-<title>OpenSS13 (2008/03)&#45;&gt;BayStation12 (OpenSS13, pre Goon)</title>
-<path fill="none" stroke="black" d="M3470.73,-1037.37C3505.19,-1026.55 3552.76,-1011.6 3590.38,-999.78"/>
-<polygon fill="black" stroke="black" points="3600.22,-996.69 3592.02,-1003.99 3595.45,-998.19 3590.67,-999.69 3590.67,-999.69 3590.67,-999.69 3595.45,-998.19 3589.33,-995.4 3600.22,-996.69 3600.22,-996.69"/>
 </g>
 <!-- Persistence SS13 (Old)&#45;&gt;Persistence -->
 <g id="edge155" class="edge">
