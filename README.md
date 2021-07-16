@@ -68,7 +68,7 @@ Click on the text below to show graph.
 	<a href="./out/tree.svg?sanitize=true">
 		<img alt="Graphviz graph (local)" src="./out/tree.svg?sanitize=true">
 	</a>
-	<b>Compiled: July 07, 2021 - 12:05AM (ÜTC +03)</b>
+	<b>Compiled: July 07, 2021 - 09:34PM (ÜTC +03)</b>
 	<br/>
 	(or check auto-generated datetime <a href="./out/compile_datetime.txt/">here</a>)
 </details>
