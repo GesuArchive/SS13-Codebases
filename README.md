@@ -11,6 +11,7 @@
 	</p>
 </p>
 
+
 <p align="center">
 	<!--
 		Static Badges
@@ -38,6 +39,10 @@
 	<a href="https://github.com/CthulhuOnIce/SS13-Codebases/commits/">
 		<img alt="Last Commit (CthulhuOnIce)"
 		src="https://img.shields.io/github/last-commit/CthulhuOnIce/SS13-Codebases"/>
+	</a>˙
+	<a href="https://github.com/badges/shields/pulse">
+		<img alt="Activity (CthulhuOnIce)"
+		src="https://img.shields.io/github/commit-activity/m/CthulhuOnIce/SS13-Codebases" />
 	</a>˙
 	<a href="https://community.chocolatey.org/packages/Graphviz">
 		<img alt="Chocolatey ver. (Windows)"

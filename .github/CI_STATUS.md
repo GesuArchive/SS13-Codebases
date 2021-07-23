@@ -16,7 +16,7 @@
 <caption>CI statuses across repository of <a href="https://github.com/CthulhuOnIce/SS13-Codebases/">CthulhuOnIce/SS13-Codebases</a> network</caption>
 	<tr>
 		<th>Repo name</th>
-		<th>Commit time</th>
+		<th>Commits rate & last time</th>
 		<td style="text-align: center"><b>CI status</b> <br>
 			Avaliable only after <a href="https://github.com/CthulhuOnIce/SS13-Codebases/pull/13">
 				PR №13 <br>
@@ -32,6 +32,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (CthulhuOnIce)"
+				src="https://img.shields.io/github/commit-activity/m/CthulhuOnIce/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/CthulhuOnIce/SS13-Codebases/commits/">
 				<img alt="Last Commit (CthulhuOnIce)"
 				src="https://img.shields.io/github/last-commit/CthulhuOnIce/SS13-Codebases"/>
@@ -51,6 +55,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (Gesugao-san)"
+				src="https://img.shields.io/github/commit-activity/m/Gesugao-san/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/Gesugao-san/SS13-Codebases/commits/">
 				<img alt="Last Commit (Gesugao-san)"
 				src="https://img.shields.io/github/last-commit/Gesugao-san/SS13-Codebases"/>
@@ -70,6 +78,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (spacestation13)"
+				src="https://img.shields.io/github/commit-activity/m/spacestation13/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/spacestation13/SS13-Codebases/commits/">
 				<img alt="Last Commit (spacestation13)"
 				src="https://img.shields.io/github/last-commit/spacestation13/SS13-Codebases"/>
@@ -89,6 +101,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (qwertyquerty)"
+				src="https://img.shields.io/github/commit-activity/m/qwertyquerty/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/qwertyquerty/SS13-Codebases/commits/">
 				<img alt="Last Commit (qwertyquerty)"
 				src="https://img.shields.io/github/last-commit/qwertyquerty/SS13-Codebases"/>
@@ -108,6 +124,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (BlueNexus)"
+				src="https://img.shields.io/github/commit-activity/m/BlueNexus/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/BlueNexus/SS13-Codebases/commits/">
 				<img alt="Last Commit (BlueNexus)"
 				src="https://img.shields.io/github/last-commit/BlueNexus/SS13-Codebases"/>
@@ -127,6 +147,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (btwotwo)"
+				src="https://img.shields.io/github/commit-activity/m/btwotwo/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/btwotwo/SS13-Codebases/commits/">
 				<img alt="Last Commit (btwotwo)"
 				src="https://img.shields.io/github/last-commit/btwotwo/SS13-Codebases"/>
@@ -146,6 +170,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (drexample)"
+				src="https://img.shields.io/github/commit-activity/m/drexample/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/drexample/SS13-Codebases/commits/">
 				<img alt="Last Commit (drexample)"
 				src="https://img.shields.io/github/last-commit/drexample/SS13-Codebases"/>
@@ -165,6 +193,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (comradef191)"
+				src="https://img.shields.io/github/commit-activity/m/comradef191/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/comradef191/SS13-Codebases/commits/">
 				<img alt="Last Commit (comradef191)"
 				src="https://img.shields.io/github/last-commit/comradef191/SS13-Codebases"/>
@@ -184,6 +216,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (quardbreak)"
+				src="https://img.shields.io/github/commit-activity/m/quardbreak/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/quardbreak/SS13-Codebases/commits/">
 				<img alt="Last Commit (quardbreak)"
 				src="https://img.shields.io/github/last-commit/quardbreak/SS13-Codebases"/>
@@ -203,6 +239,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (Zandario)"
+				src="https://img.shields.io/github/commit-activity/m/Zandario/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/Zandario/SS13-Codebases/commits/">
 				<img alt="Last Commit (Zandario)"
 				src="https://img.shields.io/github/last-commit/Zandario/SS13-Codebases"/>
@@ -222,6 +262,10 @@
 			</a>
 		</td>
 		<td>
+			<a href="https://github.com/badges/shields/pulse">
+				<img alt="Activity (ZeWaka)"
+				src="https://img.shields.io/github/commit-activity/m/ZeWaka/SS13-Codebases" />
+			</a>
 			<a href="https://github.com/ZeWaka/SS13-Codebases/commits/">
 				<img alt="Last Commit (ZeWaka)"
 				src="https://img.shields.io/github/last-commit/ZeWaka/SS13-Codebases"/>
