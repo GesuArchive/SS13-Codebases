@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: "CI"
+name: "CI ▶ build check"
 
 # Controls when the action will run.
 on:
@@ -22,17 +22,17 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-      - name: "> Check out current repository"
+      - name: "▶ Check out current repository"
         uses: actions/checkout@v2
         with:
           repository: ${{ github.repository }}
           token: ${{ github.token }}
           path: ${{ github.workspace }}
 
-      - name: "> Install Graphviz"
+      - name: "▶ Install Graphviz"
         uses: ts-graphviz/setup-graphviz@v1
 
-      - name: "> Build graph"
+      - name: "▶ Build graph"
         shell: cmd
         env:
           target_file_path: ${{github.workspace}}${{'\scripts'}}
@@ -50,17 +50,17 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-      - name: "> Check out current repository"
+      - name: "▶ Check out current repository"
         uses: actions/checkout@v2
         with:
           repository: ${{ github.repository }}
           token: ${{ github.token }}
           path: ${{ github.workspace }}
 
-      - name: "> Install Graphviz"
+      - name: "▶ Install Graphviz"
         uses: ts-graphviz/setup-graphviz@v1
 
-      - name: "> Build graph"
+      - name: "▶ Build graph"
         shell: bash
         env:
           target_file_path: ${{github.workspace}}${{'\scripts'}}
