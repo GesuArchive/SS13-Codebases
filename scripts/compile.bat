@@ -4,7 +4,7 @@
 
 
 :SCRIPT_SETTINGS
-SET file_name=tree
+SET file_name=builds_all
 SET path_input_file=src\%file_name%.dot
 SET path_output_file=out\%file_name%
 SET path_log_file=out\compile_datetime.txt

@@ -10,7 +10,7 @@
 
 # SCRIPT SETTINGS
 {
-	file_name="tree";
+	file_name="builds_all";
 	path_input_file="src/$file_name.dot";
 	path_output_file="out/$file_name";
 	path_log_file="out/compile_datetime.txt";

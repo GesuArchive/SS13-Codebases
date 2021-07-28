@@ -75,8 +75,8 @@ $ sudo apt-get install graphviz libgraphviz-dev pkg-config -y
  1. Type next commands:
 
 ```bash
-DOT.EXE -Tsvg tree.dot > tree.svg
-DOT.EXE -Tpng tree.dot > tree.png
+DOT.EXE -Tsvg builds_all.dot > builds_all.svg
+DOT.EXE -Tpng builds_all.dot > tree.png
 ```
 
 Where keys is:
@@ -91,8 +91,8 @@ Graphviz without specify path will output files in current directory.
 But you can specify path like in next examle:
 
 ```bash
-DOT.EXE -Tsvg "./src/tree.dot" > "./out/tree.svg"
-DOT.EXE -Tpng "./src/tree.dot" > "./out/tree.png"
+DOT.EXE -Tsvg "./src/builds_all.dot" > "./out/builds_all.svg"
+DOT.EXE -Tpng "./src/builds_all.dot" > "./out/tree.png"
 ```
 
 More information can be founded on the [official website](https://graphviz.org/doc/info/command.html).
@@ -103,8 +103,8 @@ More information can be founded on the [official website](https://graphviz.org/d
  1. Type next commands:
 
 ```shell
-dot -Tsvg tree.dot > tree.svg
-dot -Tpng tree.dot > tree.png
+dot -Tsvg builds_all.dot > builds_all.svg
+dot -Tpng builds_all.dot > tree.png
 ```
 
 Where keys is:
@@ -119,8 +119,8 @@ Graphviz without specify path will output files in current directory.
 But you can specify path like in next examle:
 
 ```shell
-dot -Tsvg ".\\src\\tree.dot" > ".\\out\\tree.svg"
-dot -Tpng ".\\src\\tree.dot" > ".\\out\\tree.png"
+dot -Tsvg ".\\src\\builds_all.dot" > ".\\out\\builds_all.svg"
+dot -Tpng ".\\src\\builds_all.dot" > ".\\out\\tree.png"
 ```
 
 More information can be founded on the [official website](https://graphviz.org/doc/info/command.html).

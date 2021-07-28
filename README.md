@@ -70,10 +70,10 @@ Click on the text below to show graph.
 
 <details>
 	<summary><b>[ Show graph of builds ]</b></summary>
-	<a href="./out/tree.svg?sanitize=true">
-		<img alt="Graphviz graph (local)" src="./out/tree.svg?sanitize=true">
+	<a href="./out/builds_all.svg?sanitize=true">
+		<img alt="Graphviz graph (local)" src="./out/builds_all.svg?sanitize=true">
 	</a>
-	<b>Compiled: July 07, 2021 - 09:34PM (ÜTC +03)</b>
+	<b>Compiled: July 07, 2021 - 03:24PM (ÜTC +03)</b>
 	<br/>
 	(or check auto-generated datetime <a href="./out/compile_datetime.txt/">here</a>)
 </details>
@@ -83,7 +83,7 @@ Click on the text below to show graph.
 <details>
 	<summary><b>[ Show graph of builds ]</b></summary>
 	<a href="https://github.com/CthulhuOnIce/SS13-Codebases/blob/master/out/tree.svg?sanitize=true">
-		<img alt="Graphviz graph (online)" src="./out/tree.svg?sanitize=true">
+		<img alt="Graphviz graph (online)" src="https://raw.githubusercontent.com/CthulhuOnIce/SS13-Codebases/master/out/tree.svg">
 	</a>
 	<b>Check auto-generated datetime <a href="https://github.com/CthulhuOnIce/SS13-Codebases/blob/master/out/compile_datetime.txt?sanitize=true">here</a>
 </details>
